@@ -13,4 +13,4 @@ Challenge to build out a Order Summary Component.
 
 ## Design
 
-The UI/UX design was based from [FrontEndMentor](https://www.frontendmentor.io/). You can find the original design [here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj.
+The UI/UX design was based from [FrontEndMentor](https://www.frontendmentor.io/). You can find the original design [here](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
